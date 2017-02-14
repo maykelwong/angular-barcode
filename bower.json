@@ -1,5 +1,5 @@
 {
-  "name": "angular-barcode-es6",
+  "name": "angular-barcode",
   "description": "An angular directive for lindell's JsBarcode",
   "main": "dist/angular-barcode.js",
   "authors": [
